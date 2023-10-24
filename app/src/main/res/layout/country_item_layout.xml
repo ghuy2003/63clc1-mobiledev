@@ -20,16 +20,16 @@
         android:layout_width="230dp"
         android:layout_height="55dp"
         android:text="ten quoc gia"
-        tools:layout_editor_absoluteX="167dp"
-        tools:layout_editor_absoluteY="5dp"
         android:textSize="25dp"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="5dp" />
 
     <TextView
         android:id="@+id/textViewInfo"
         android:layout_width="230dp"
         android:layout_height="85dp"
-        android:text="TextView"
+        android:text="dan so"
         tools:layout_editor_absoluteX="167dp"
         tools:layout_editor_absoluteY="59dp"
         android:textSize="15dp"/>

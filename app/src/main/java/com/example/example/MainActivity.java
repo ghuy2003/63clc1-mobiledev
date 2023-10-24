@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         dsQG = new ArrayList<Country>();
-        Country qg1 = new Country("VietNam","vn", 80);
+        Country qg1 = new Country("VietNam","vn", 800);
         Country qg2 = new Country("America","us", 80);
         Country qg3 = new Country("Russia","ru", 80);
         dsQG.add(qg1);
