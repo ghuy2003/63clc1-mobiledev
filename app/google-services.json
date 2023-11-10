@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803551876546",
+    "project_id": "android-projects-a5ae1",
+    "storage_bucket": "android-projects-a5ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803551876546:android:99ae84635fd3840e80b25b",
+        "android_client_info": {
+          "package_name": "vn.edu.tinhoc123.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBusHgxZjR7vlhJULonVm5T-i0-xf-bI-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
